@@ -1,4 +1,4 @@
-# nima
+# game store
 
 A new Flutter project.
 
